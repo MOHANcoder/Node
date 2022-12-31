@@ -1,0 +1,15 @@
+{
+  "name": "nodesample",
+  "version": "1.0.0",
+  "description": "Trying to learn the node.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S.Mohan",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "sharp": "^0.31.3"
+  }
+}
